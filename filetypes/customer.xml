@@ -1,0 +1,11 @@
+<Customer>
+      <FirstName>Great Lakes Food Market</FirstName>
+      <LastName>Howard Snyder</LastName>
+      <FullAddress>
+        <Address>123 Elm St</Address>
+        <City>Copenhagen</City>
+        <Region>Zealand</Region>
+        <PostalCode>2400</PostalCode>
+        <Country>Denmark</Country>
+      </FullAddress>
+    </Customer>
